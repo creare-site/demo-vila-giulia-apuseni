@@ -1,0 +1,29 @@
+{
+    "copy"           : "WebsiteMarket", 
+    "email"          : "giuliaarieseni@yahoo.com",
+    "phone"          : "0745198990",
+    "address"        : "Arieseni, sat Izlaz nr. 472A - Izlaz Arieseni, Alba.",
+    "design"         : "Paradigm by Html5 UP",
+
+    "app_title"      : "Vila Giulia",
+    "app_subtitle"   : "O locatie excelenta de cazare in Arieseni, Alba.",
+
+    "seo_title"      : "Vila Giulia - Cazare Apuseni | WebsiteMarket",
+    "seo_desc"       : "O locatie excelenta de cazare in Arieseni, Alba.",
+
+    "service"        : "https://websitemarket.ro", 
+
+    "product"        : "https://websitemarket.ro/creare-site/pensiuni/vila-giulia-apuseni/", 
+    "github"         : "https://github.com/creare-site/demo-vila-giulia-apuseni/",
+    "github_group"   : "https://github.com/creare-site/",
+
+    "blog"           : "https://blog.websitemarket.ro/",
+    "facebook"       : "https://www.facebook.com/giuliaarieseni/",
+    "youtube"        : "https://www.youtube.com/",
+    "twitter"        : "https://twitter.com/websitemarketro/",
+    "instagram"      : "https://websitemarket.ro",
+    "support"        : "https://websitemarket.ro",
+    "discord"        : "https://discord.gg/MFRQmAk",
+
+    "LAST_KEY" : "NA"
+}

@@ -1,0 +1,52 @@
+
+	<!-- Section -->
+	<section>
+		<header>
+			<h2>Contact</h2>
+		</header>
+		<div class="content">
+			<p>
+				Pentru a obtine mai multe informatii, nu ezita sa ne contactezi.
+				<br />
+				<strong>{{ data.app_title }}</strong> o oaza de liniste la dispozitia dvs. 
+			</p>
+			<form>
+
+				<ul class="actions">
+					<li><a href="tel:{{ data.phone }}" class="button primary large">Suna la Pensiune</a></li>
+					<li><a href="mailto:{{ data.email }}" class="button large">Trimite Mail</a></li>
+				</ul>
+
+			</form>
+		</div>
+		<footer>
+			<ul class="items">
+				<li>
+					<h3>eMail</h3>
+					<a href="mailto:{{ data.email }}">{{ data.email }}</a>
+				</li>
+				<li>
+					<h3>Telefon</h3>
+					<a href="tel:{{ data.phone }}">{{ data.phone }}</a>
+				</li>
+				<li>
+					<h3>Adresa</h3>
+					<span>{{ data.address }}</span>
+				</li>
+				<li>
+					<h3>Link-uri</h3>
+					<ul class="icons">
+						<li><a href="{{ data.github   }}" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+						<li><a href="{{ data.facebook }}" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="{{ data.youtube  }}" class="icon brands fa-youtube"><span class="label">Youtube</span></a></li>
+					</ul>
+				</li>
+			</ul>
+		</footer>
+	</section>
+
+	<!-- Copyright -->
+	<div class="copyright">
+		&copy; {{ data.copy }} - <strong><a href="{{ data.product }}">{{ data.app_title }}</a></strong>. 
+		Design: <a href="https://html5up.net">HTML5 UP</a>.
+	</div>
